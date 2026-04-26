@@ -1,4 +1,4 @@
 # Todo List
-- [ ] Buy milk
+- [ ] Buy oatmilk and bananas
 - [ ] Read Pro Git book
 - [ ] Renew driving license
